@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "$CF_PAGES_URL"
+baseurl = "https://smbuakt.uk"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
